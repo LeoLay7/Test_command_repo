@@ -1,1 +1,1 @@
-print("My first Git program add new text!!")
+print("Hello world!!!")
